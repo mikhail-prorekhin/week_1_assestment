@@ -1,4 +1,4 @@
-package cashe
+package week_1_assestment
 
 type Cashe interface {
 	Get(string) string
