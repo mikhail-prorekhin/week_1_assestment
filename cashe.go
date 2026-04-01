@@ -1,4 +1,4 @@
-package main
+package cashe
 
 type Cashe interface {
 	Get(string) string

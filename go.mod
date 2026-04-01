@@ -1,3 +1,3 @@
-module  github.com/mikhail-prorekhin/week_1_assestment
+module github.com/yourname/cashe
 
 go 1.26.1
